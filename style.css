@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+}
+
+.Component-1{
+    height: 300px;
+    background-color: pink;
+
+}
+
+.Component-2{
+    height: 300px;
+    background-color: gray;
+
+}
+
+
+.Component-3{
+    height: 300px;
+    background-color: aqua;
+
+}
